@@ -7,8 +7,8 @@ const geist = Geist({ subsets: ['latin'], variable: '--font-geist' })
 const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
-  title: 'Nandini Karnakota | Java & Spring Boot Developer',
-  description: 'Backend developer and technical writer creating practical Java and Spring Boot guides.',
+  title: 'Nandini Karnakota | Content Writer | Technical Writer',
+  description: 'Content Writer and Technical Writer creating clear, practical content about Java, Spring Boot, REST APIs, and Cloud Computing.',
   generator: 'v0.app',
 }
 
